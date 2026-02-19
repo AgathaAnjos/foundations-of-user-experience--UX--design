@@ -15,8 +15,8 @@ Consolidar os fundamentos de UX Design e documentar os principais conceitos estu
 - Acessibilidade e tecnologia assistiva  
 - Design Thinking  
 - Design Sprints  
-- Estrutura inicial para portfólio em UX  
-
+- Estrutura inicial para portfólio em UX
+  
 ## 🚀 Propósito
 
 Organizar conhecimento, fortalecer minha base em UX e registrar minha evolução na área.
