@@ -1,0 +1,184 @@
+A Estrutura do Design UX - Módulo 3
+
+    Framework:
+        ferramenta conceitual que fornece orientação sobre as práticas e os processos recomendados para resolver problemas e criar soluções que resolvam os problemas de usuários reais,
+            fornecem estrutura para o processamento do design e promovem a colaboração, o que pode estimular inovações.
+        a maioria dos designers de UX segue um framework ou um processo específico ao abordar seu trabalho, desde a primeira ideia até o lançamento final de um produto.
+
+            Design Thinking:
+                framework para sequenciar as tarefas
+                é uma abordagem centrada no usuário para a solução de problemas que inclui atividades como pesquisa, protótipo e testes para ajudá-lo a entender quem é o usuário, 
+                    quais são seus problemas e o que o design deve incluir.
+                a estrutura do design thinking deve ser iterativa e incremental, o que significa que você repetirá determinadas fases à medida que refinar seus designs
+                conta com 5 fases:
+                    empatia:
+                        principal objetivo é aprender mais sobre o usuário e seus problemas, desejos e necessidades, bem como sobre o ambiente ou o Contexto em que ele terá a experiência do seu design
+                        a parte mais importante da fase de empatia é afastar-se de suas suposições e palpites e permitir que os resultados da pesquisa informem sua tomada de decisão nas fases posteriores do design.
+                        a pesquisa com o usuário pode incluir pesquisas, entrevistas e sessões de observação, e talvez também seja necessário realizar algumas pesquisas sobre os produtos da concorrência para determinar 
+                            como o usuário vê os produtos da concorrência como parte de sua vida diária e da solução de problemas diários.
+
+                            entrevistas => questionários, entrevistas pessoais, telefônicas e em vídeo
+                                antes da entrevista é necessário considerar os requisitos de serviço
+
+                            mapas de empatia => quem são os usuários,  quais suas situações, o que dizem sobre susas experiências com o produto, o que pensam sobre suas experiências,
+                                o que fazem antes, durante e depois de suas experiências, o que sentem sobre suas experiências
+                                    o ideal é que as respostas a essas perguntas se baseiem em qualquer informação do usuário incluída nos requisitos de negócios de um projeto.
+
+                    definição:
+                        análise dos resultados da pesquisa da fase de empatia e determinação de quais problemas do usuário são os mais importantes a serem resolvidos e por quê.
+                        o resultado mais importante dessa fase é uma definição clara do problema, que é uma descrição da necessidade do usuário que seus projetos abordarão.
+                        também pode desenvolver uma proposta de valor, que é um resumo do motivo pelo qual o usuário usaria ou deveria usar o produto ou serviço que você está projetando.
+                        análise sobre a fase de empatia para responder a esta pergunta chave: Quais das necessidades ou problemas dos meus usuários são os mais importantes para serem abordados pelo meu design?
+                        fornece ao designer informações que podem ser usadas para criar uma lista de verificação à qual ele pode retornar ao definir as necessidades dos usuários e idear soluções eficazes.
+
+                            histórias de usuários:
+                                ajudam os designers a concentrar ainda mais sua compreensão desses usuários
+                                é uma narrativa de uma frase contada do ponto de vista de um perfil
+                                deve encapsular quem é o usuário, o que ele quer fazer e por que quer fazer isso
+
+                                    [tipo de usuário], eu quero [ação] para que [benefício].
+                                        ex.: "Como cliente de longa data com deficiência visual e uma estreita ligação com a equipe da padaria, quero fazer meus pedidos por 
+                                                telefone para que eu possa fazer o pedido com facilidade e continuar a me relacionar com os membros da equipe."
+
+                            jornadas do usuário:
+                                depois que o designer tiver destilado seus grupos de usuários em histórias e personas realistas, é hora de começar a mapear a jornada do usuário de cada persona
+                                uma série de experiências que o usuário tem ao tentar atingir seu objetivo
+                                pode ser uma experiência que o usuário tem com o produto que está sendo projetado, uma experiência que ele tem com um produto semelhante ou uma experiência que ele tem na ausência desses produtos.
+
+                            definição do problema:
+                                resume quem é o usuário, o que ele precisa de um design e por quê
+                                modelo simples para escrever uma definição do problema:
+
+                                    [Nome da Persona do usuário] é um [tipo de usuário] que precisa de [tipo de experiência do usuário] porque [benefícios da experiência do usuário].
+                                        ex.: "Berta é uma pessoa idosa com deficiência visual. Ela é cliente de longa data de uma padaria e prefere fazer pedidos por telefone. Ela precisa de um site e de um sistema 
+                                                de pedidos on-line que sejam fáceis de usar, que se adaptem às suas necessidades visuais e que imitem a sensação e o fluxo de uma conversa telefônica amigável. Ela quer fazer seus pedidos com facilidade 
+                                                e sentir que está estabelecendo uma conexão pessoal com a padaria."
+
+                                Esse modelo é semelhante a uma história do usuário, mas as definições do problema são normalmente mais detalhadas e são escritas da perspectiva do designer
+
+                    
+                    ideação:
+                        objetivo da ideação é apresentar o maior número possível de soluções de design - não se contente com a primeira solução, pois a solução mais óbvia nem sempre é a correta.
+                        envolve o brainstorming colaborativo com outros membros da equipe para gerar o maior número possível de soluções para um problema,
+                            isso pode incluir marketing, engenharia, gerenciamento de produtos ou quaisquer outras partes interessadas no produto ou serviço
+                        durante as sessões de brainstorming, você deve explorar todas as soluções possíveis.
+                        após o brainstorming, acontecerá uma análise com as possíveis soluções e começará a fazer escolhas sobre quais são as melhores opções a serem adotadas como protótipos.
+
+                            "Como Poderiámos?" => exercício de brainstorming, os designers pegam uma definição do problema da fase de definição e a transformam em uma lista de perguntas que começam com "Como poderíamos?" (ou HMW - How might we).
+                                ajudam os designers a reformular os problemas dos usuários como oportunidades interessantes de soluções
+
+                                    Como podemos tornar o processamento de pedidos on-line fácil de usar?
+                                    Como podemos fazer com que o sistema de pedidos on-line imite uma conversa amigável?
+                                    Como podemos garantir que o sistema de pedidos on-line se adapte às necessidades visuais de Berta?
+
+                            Sketch rápido (Rapid Sketching ou Crazy Eights) => abordagem visual da ideação
+                                especialmente útil quando os designers precisam fazer um brainstorming dos elementos visuais de um novo design
+                                primeiro esclarecem o problema que estão tentando resolver ou a ideia que estão tentando iterar.
+                                podem usar uma das perguntas ou soluções que desenvolveram em um exercício de HMW, em seguida fazem:
+                                     
+                                    1° Dividem uma folha grande de papel em oito quadrados.
+                                    2° Pegam algo para desenhar.
+                                    3° Dão início ao um cronômetro de oito minutos.
+                                    4° Reserve um minuto para esboçar uma ideia ou solução em cada quadrado.
+
+                                        uando o cronômetro de oito minutos disparar, deverá haver um esboço diferente em cada um dos oito quadrados do papel.
+                                        podem adaptar essa abordagem conforme necessário
+                                            ex.: se um designer tiver menos tempo ou folhas de papel menores, ele poderá começar com quatro quadrados e quatro minutos para fazer o esboço.
+
+                            Análise de concorrência => quando querem novas ideias sobre como resolver um problema, eles também podem auditar seus concorrentes fazendo perguntas como:
+                                Que produtos eles oferecem?
+                                Quais são os pontos fortes e as áreas de melhoria desses produtos?
+
+                                    Ao responder a perguntas como essas, os designers podem se inspirar para seus próprios projetos, identificar lacunas no mercado e encontrar evidências de quais projetos já funcionaram ou não
+
+                            SCAMPER => técnica usada pelos designers para fazer um brainstorming de mudanças e alternativas para ideias e designs
+                                Cada letra do acrônimo representa uma ação diferente que os designers podem aplicar a seus designs
+
+                                    S (substitute) => substituir elementos por outros
+                                    C (combine) => combianr elementos eem um só
+                                    A (adaptation) => adaptar elementos com alternativas
+                                    M (modify) => modificar elementos
+                                    P (put to another use) => dar outro uso aos elementos
+                                    E (eliminate) => eleminar elementos
+                                    R (rearrange) => reorganizar elementos
+
+                            Colaboração => Independentemente de estarem trabalhando sozinhos ou em equipe, os designers costumam trazer outros participantes para o processo de ideação, incluindo os usuários e as partes interessadas da empresa.
+                                    garantem que responderam a perguntas cruciais, como:
+
+                                        Quem estará envolvido? Quais serão suas funções?
+                                        Onde ocorrerá a colaboração? Será presencial ou virtual?
+                                        Por que a colaboração está acontecendo? Qual é o objetivo final?
+                                        Como ocorrerá a colaboração? Quais ferramentas e processos usaremos?
+
+                            Requisitos de negócios => À medida que os designers revisam suas ideias, eles devem se referir aos Requisitos de negócios e fazer perguntas como estas:
+
+                                Quais dessas ideias serão viáveis dentro do orçamento e do Cronograma do projeto?
+                                Quais dessas ideias atenderão melhor aos padrões do design?
+
+                    protótipo:
+                        objetivo é produzir um modelo inicial de um produto que demonstre sua funcionalidade e possa ser usado para testes.
+
+                            Arquitetura da informação e sitemaps => produtos como aplicativos da Web devem apresentar informações de forma que os usuários possam entender e navegar com facilidade e prazer. 
+                               a arquitetura da informação é essencialmente um diagrama ou Fluxograma de alto nível que mostra como os usuários podem se mover por um produto, como um site ou um aplicativo.
+                               são cruciais para atender às necessidades dos usuários.
+                               esse sitemap organiza o produto delineando sua hierarquia e sequência:
+                                 
+                                hierarquia => forma como os tópicos são priorizados e subordinados
+                                sequência => ordem em que os usuários podem navegar pela hierarquia do produto
+
+                            Wireframes => esboços do produto que dão vida ao sitemap
+                                são relativamente simples, consistindo principalmente de formas, linhas e texto mínimo. Há dois métodos que os designers podem empregar:
+
+                                    Wireframes em papel => esboços em papel
+                                    Wireframes digitais => feito em ferraentas de UX, designs 2D que mostram, em um alto nível, a aparência do produto
+                                    Protótipo de baixa fidelidade (lo-fi) => modelo interativo simples que fornece uma ideia básica da aparência do produto e de como seus componentes fluirão para os usuários
+                                    Protótipo de alta fidelidade (hi-fi) => incorporam todos os componentes, a interação e o conteúdo do produto, embora alguns conteúdos possam ser representados por espaços reservados realistas.
+
+                            Protipagem e testes => criação protótipos para que as pessoas possam experimentar a aparência e a sensação do produto
+
+                    teste:
+                        fundamental para desenvolver a solução certa para resolver o problema do usuário
+                        objetivo de testar protótipos é continuar a aperfeiçoar o protótipo à medida que se obtém insight sobre se o design do seu produto ou serviço é fácil de usar e resolve o problema do usuário.
+                        testes eficazes visam revelar o que os usuários pensam, sentem e experimentam ao usar um produto, como um site ou um aplicativo.
+                            considerando quem, quando, onde, por que e como de um plano de testes:
+
+                                Quem participará dos testes? No início, os designers podem pedir a amigos, colegas, parceiros de design ou outros participantes informais para testar um produto e oferecer feedback.
+                                Quando e onde os testes serão realizados? Os testes podem ser realizados pessoalmente ou virtualmente, em uma série de ambientes ou canais de comunicação diferentes.
+                                Por que os testes são realizados? O objetivo principal é sempre entender os usuários e melhorar suas experiências
+                                    Validar ideias, informações ou decisões
+                                    Descobrir problemas de usabilidade
+                                Como os participantes se envolverão com o protótipo? testes eficazes incorporam tecnologias adaptativas e outros elementos inclusivos para garantir que todos os participantes possam se envolver plenamente.
+                                Como as informações serão coletadas? Os designers usam uma série de métodos para coletar informações dos usuários, inclusive observação e entrevistas
+
+    
+
+                    a prototipagem e o teste estão interconectados, o que significa que você testará seus designs em cada estágio do desenvolvimento do protótipo, em vez de esperar para testar depois que o protótipo funcional estiver concluído
+                    pense em maneiras de incluir testes em todo o processo de design, de modo que a iteração dos designs seja feita com base no feedback do usuário e não por outros motivos.
+
+    Requisitos de Serviço de design de UX:
+        em qualquer projeto de designer de UX, os requisitos de negócios vêm de qualquer entidade que atribua o projeto, esse entidade pode ser uma empresa com fins lucrativos, 
+            uma organização sem fins lucrativos, uma organização governamental ou qualquer outra coisa
+        independentemente de sua origem, os requisitos de negócios normalmente incluem dois tipos de informações: objetivos e parâmetros.
+
+            Os objetivos de negócios geralmente descrevem:
+                Os usuários que eles querem que o design atinja
+                Os resultados que eles querem que o design atinja
+                Sua visão sobre a aparência e a Função finais do design
+
+            Os parâmetros de negócios geralmente descrevem:
+                O orçamento, o cronograma e o escopo do projeto
+                As ferramentas e os sistemas específicos que os designers devem usar ou para os quais devem projetar
+                Os requisitos e os padrões que o design deve atender
+        
+        são objetivos e parâmetros definidos por qualquer empresa ou outra entidade que esteja atribuindo o projeto de design.
+        indicam detalhes cruciais, como o orçamento da empresa, o cronograma e a visão do design.
+        requisitos de negócios variam de acordo com o projeto e suas chaves, e muitas vezes podem ser negociados durante o ciclo de vida do projeto
+        também devem moldar a execução do processo de design thinking pelos designers
+        embora o design thinking tecnicamente comece com a empatia, os projetos de design reais normalmente começam com os requisitos de negócios
+        
+    Personas de usuários:
+        personas de usuários são perfis fictícios que representam grupos de usuários semelhantes
+        ajudam os designers a destilar grandes quantidades de informações sobre o usuário em partes mais gerenciáveis.
+        depois que os designers estabelecem perfis, eles podem manter seus usuários em mente durante todo o processo de design thinking sem precisar se lembrar de cada detalhe capturado durante as entrevistas
+        esses perfis também ajudam os designers a explicar suas escolhas de design aos clientes e a outras partes interessadas da empresa.
+        em vez de tentar descrever seus usuários de forma abstrata, eles usam personas de usuários para contar histórias convincentes que colocam seus designs em contexto.

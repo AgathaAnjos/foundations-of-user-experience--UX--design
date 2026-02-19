@@ -1,0 +1,23 @@
+Identidade da marca: A aparência visual e a voz de uma empresa
+
+Definir: A fase do design thinking que envolve o aproveitamento dos insights obtidos durante a fase de empatia para identificar o problema que você resolverá com seu design.
+
+Agência de design: Um local único para a aparência de marcas, produtos e serviços
+
+Design Sprint: Um processamento com vinculação de tempo, com cinco fases normalmente distribuídas em cinco dias completos de 8 horas. O objetivo dos design sprints é responder a questões críticas de negócios por meio de design, protótipos e testes de ideias com os usuários
+
+Design thinking: Um framework de design de UX que se concentra no usuário em todas as cinco fases: empatia, definição, ideação, protótipo e teste.
+
+Empatia: a fase do design thinking que envolve conhecer o usuário por meio de pesquisas.
+
+Ideação: A fase do design thinking que envolve o brainstorming de todas as possíveis soluções para o problema do usuário.
+
+Insight: Observação que o ajuda a entender o usuário ou suas necessidades a partir de uma nova perspectiva
+
+Protótipo:  Um modelo inicial de um produto que demonstra sua funcionalidade e pode ser usado para testes
+
+Retrospectiva: Uma crítica colaborativa do design sprint da equipe
+
+Resumo do sprint: Um documento que você compartilha com todos os participantes para ajudá-los a se preparar para o Sprint
+
+Teste: A fase do design thinking que envolve a facilitação e a observação de testes de usuários com seus protótipos de design.

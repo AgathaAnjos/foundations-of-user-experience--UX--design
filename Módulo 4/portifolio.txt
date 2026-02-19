@@ -1,0 +1,50 @@
+tema escolhido: 
+    Desenvolva um aplicativo e um site responsivo que permitam aos pais consultar os registros de saúde de seus filhos, imprimir esses registros para atender às exigências escolares ou de acampamentos e verificar quando as consultas médicas de seus filhos estão agendadas. 
+
+portifólio de ex. 1 => https://joshglucas.com/
+    😌👍:
+        gosto de retângulo principal, a animação é bem bonita
+        gosto da animação dos trabalhos,, tem uma cor parecida com o retângulo
+        gosta da experiência dee clicar no trabalho e as info irem aparecendo aos poucos
+        gosto do carregamento do conteúdo conforme vai descendo na página
+        bem interativo 
+
+    😣👎:
+        não gosto da barra mexendo o tempo todo com as infos
+        não gosto de como fica quebrando pro lado quando passa o mouse
+        não gosto que fica embaçado quando passa o mouse
+        muito texto
+        não gosto dos botões de redirecionamento
+        muita coisa se mexendo, da dor de cabeça
+
+portifólio de ex. 2 => https://www.lisasuefischer.com/
+    😌👍:
+        gosto do menu principal ter a logo dela e da disposição dos itens
+        gosto da animação dos quadrados
+        gosto nem todos os quadrados são imagens
+        pouco texto, sendo somente o necessário para entender do produto
+        gosto do rodapé fixo
+        gosto dos botões de redirecionamento
+        gosto da forma que trás a identidade visual completa
+        gosto dos vídeos mostrando o produto
+
+    😣👎:
+        pouco interativo
+        não gosto de como o conteúdo não vai para outra página
+
+portifólio de ex. 3 => https://www.shujdesign.com/
+    😌👍:
+        gosto do menu principal, bem completo e direto
+        gosto da animação leve quando muda de tela
+        gosto que cada trabalho tem uma palheta de cor diferente
+        gosto de como trás cada fase do produto até ele estar pronto
+        gosto do "like" nos projetos
+        gosto que tem uma aba "about me"
+        
+    😣👎:
+        não gosto da tela inicial
+        muito texto
+        conteúdo todo estático
+        não gosto da animação do projetos
+
+    

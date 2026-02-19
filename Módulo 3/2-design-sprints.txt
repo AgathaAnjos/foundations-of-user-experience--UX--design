@@ -1,0 +1,64 @@
+Sprint Design => processo com limite de tempo, com 5 fases, normalmente distribuidas por 5 dias completos de 8h, sendo seu objetivo resolver um desafio
+    crítico de design por meio do design, prototipagem e teste de ideias com os usuários.
+
+    benefícios:
+        a equipe pode reduzir o processo de tomada de decisão de vários meses para uma semana
+        caminho eficaz para levar um produto ao mercado
+        priorizam os usuários, colocando suas necessidades em primeiro lugar
+        permitem que avance rapidamente para o futuro para testar o produto e obter os feedbacks dos usuários antes da tomada de decisões
+        considera todos os ângulos do problema, vendo diferentes perspectivas de diferentes áreas
+        podem ser programados a qualquer momento durante o projeto
+
+    perguntas chaves:
+        existem muitas soluções em potencial para seu desafio de design?
+        um desafio de design exige que pessoas de equipes multifuncionais participem?
+        o escopo do desafio é amplo o suficuente para um sprint?
+
+    5 fases do design sprint:
+        empatia, definição, ideação, protótipo e teste
+            cada fase pode levar até um dia inteiro (8h)
+            todo processo é prático
+            conta com colaboração criativa
+            usuários em primeiro lugar  
+    
+    Os design sprints são uma maneira eficiente e eficaz de manter o alinhamento com as metas gerais da framework do design thinking.
+    Como um design sprint normalmente dura cinco dias consecutivos, ele comprime o processamento do design thinking em um período intenso e focado de ideação, protótipos e testes.
+
+    Idéias básicas para planejar uma sprint:
+        primeira etapa em um design sprint é a pesquisa com os usuários 
+        chamar os especialistas, conversas e palestras sobre o problema da sprint
+        encontre o espaço certo para que todos os colaboradores possam ter oportunidades iguais de trabalhar
+        coletar suprimentos necessários
+        definir regras com antecedência
+        planejar apresentações introdutórias com o obejetivo da sprint
+        planejamento pós-sprint, apresentações e documentação são interessantes
+
+    Um iniciante não planeja a sprint, mas participa de todos os processos de tomada de decisão quando as possíveis soluções surgirem
+        planeja com antecedência os testes (fase 5), agendando testadores, criando perguntas paras as pesquisas/ entrevistas
+        ajuda na criação de um protótipo sólido, faz perguntas, oferece Idéias e analisará o protótipo concluído 
+        confirma os usuários de teste para a fase 5 
+        testa o protótipo, coleta feedbacks observando e entrevistando usuários
+    
+    Retrospectiva da sprint:
+        perguntas a serem respondidas:
+            o que correu bem?
+                Quais ferramentas me pouparam mais tempo e esforço?
+                Quando foi que senti mais satisfação?
+                O que me ajudou a fazer minha melhor contribuição para a equipe durante este sprint?
+            
+            o que pode ser melhorado?
+                O que deu errado que me pegou desprevenido?
+                Quais problemas surgiram com mais frequência?
+                Quando acho que tivemos o maior desafio como equipe?
+                A equipe superestimou ou subestimou o trabalho necessário para concluir o design?
+                Algum fator externo prejudicou minha produtividade?
+            
+            o design final realmente resolve o problema do usuário?
+
+        a pessoa que planejou a sprint guiará a conversa e alguém fará anotações para que a equipe possa usar o feedback para tornar a próxima sprint mais produtiva
+
+
+
+
+
+

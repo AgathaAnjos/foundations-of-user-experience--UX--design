@@ -1,0 +1,106 @@
+Carreiras na área:
+        interaction designer:
+        se concentram em projetar a experiência de um produto e como ele funciona. Eles se esforçam para entender o fluxo do usuário, ou o caminho que um usuário típico percorre para concluir uma tarefa em um aplicativo, site ou outra plataforma. 
+            Os designers de interação (IxD) se concentram menos na aparência do produto e, em vez disso, se esforçam para torná-lo fácil de navegar e simples para os usuários interagirem.
+                Responde a perguntas como: O que deve acontecer se um usuário tocar neste botão? Como tornar essa ação mais fácil de ser concluída pelos usuários? E como estão dispostos os elementos de design no site? 
+
+        visual designer:
+            se concentram na aparência de um produto ou tecnologia.
+            responsáveis pelo design de logotipos, ilustrações e ícones, além de decidir a cor, o tamanho e o posicionamento da fonte
+            O objetivo de um designer visual é encantar os usuários com designs que os inspirem, engajem e entusiasmem.
+            layout de cada página ou tela e fazem com que todos os elementos de design se encaixem de forma visualmente atraente.
+                responde a perguntas como: Que tipo de estilo visual os ícones devem ter para se adequar ao Branding do produto? Ou, que cor e fonte devemos usar para este botão?
+        
+        motion designer:
+            pensam em como é a sensação de um usuário ao se movimentar por um produto e como criar transições suaves entre as páginas de um aplicativo ou site. 
+            podem criar animações ou efeitos visuais para dar vida às suas ideias de design. 
+            se concentram em elementos de design que se movem, em vez dos tradicionais designs estáticos.
+                responde a perguntas como: Como um aplicativo deve fazer a transição entre as páginas? Como mostramos a conexão
+
+        VR/ AR designer:
+            Os designers de realidade virtual (VR) e realidade aumentada (AR) criam produtos que proporcionam aos usuários experiências imersivas
+            Para garantir que os usuários se sintam confortáveis ao mergulhar em uma experiência de RV ou RA, os designers precisam considerar cuidadosamente tudo, desde o som até a iluminação.
+                esponde a perguntas como: Como criamos uma experiência do usuário que aproveita o espaço 3D? Ou essa ação causará enjoo no usuário? 
+
+        UX researcher:
+            realizam estudos ou entrevistas que examinam como as pessoas usam um produto.
+            identificam os pontos de dor que os usuários estão enfrentando e exploram como os produtos podem ajudar a resolver esses problemas.
+            exploram a Usabilidade de produtos existentes, pedindo aos usuários que concluam tarefas em um aplicativo ou site.
+            objetivo dos pesquisadores de UX geralmente é entender como um produto pode fornecer uma solução para um problema real que os usuários estão tendo.
+                responde a perguntas como: Que problemas os usuários estão enfrentando? O design deste produto é fácil de usar? E as pessoas se interessariam por esse novo recurso de design? 
+
+        UX writer:
+            pensam em como tornar a linguagem de um produto mais clara para que a experiência do usuário seja mais intuitiva.
+            ajudam a definir a voz e a personalidade de uma marca.
+            geralmente inclui escrever rótulos para botões e determinar o Tom da linguagem usada em um aplicativo ou site.
+                responde a perguntas como: Que palavras devem ser usadas para comunicar essa ideia com clareza? O tom desse aplicativo deve ser amigável ou técnico? E qual deve ser a linguagem do rótulo deste botão? 
+
+        UX program manager:
+            garantem uma comunicação clara e oportuna, de modo que o processo de criação de um produto útil ocorra sem problemas do início ao fim.
+            definição de metas, a elaboração de planos de projeto e a alocação de recursos da equipe.
+            trabalham em todos os departamentos para garantir que a UX esteja envolvida em todo o ciclo de vida do projeto.
+                responde a perguntas como: Quais são as metas gerais deste projeto e qual é o plano para alcançá-las? E como podemos criar e melhorar os processos dentro da equipe?
+
+        UX engineer:
+            traduzem a intenção do design em uma experiência funcional, como um aplicativo ou um site.
+            ajudam as equipes de UX a descobrir se os designs são intuitivos e tecnicamente viáveis.
+            sintetizam o design e o desenvolvimento, dando vida aos conceitos do produto.
+                responde a perguntas como: Como implementamos cada interação? Como criamos esse design de forma que permaneça fiel à sua intenção original? E como podemos explorar alternativas para determinar a melhor experiência do usuário? 
+
+        conversation designer:
+            possibilitam que os usuários tenham conversas naturais para fazer as coisas.
+            aproveitam a pesquisa de usuários, a psicologia, o Conhecimento técnico e a linguística para criar experiências do usuário que sejam intuitivas e envolventes. 
+            desenvolvem o "perfil" ou a personalidade da voz, bem como o fluxo e o diálogo da interação.
+                responde a perguntas como: Qual é a linguagem e o fluxo ideais com base em quem são os usuários, a tarefa a ser realizada e o contexto da conversa? A personalidade do assistente virtual parece genuína, envolvente e reflete os valores da marca? Como a conversa funciona com os elementos na tela? O assistente virtual oferece uma experiência consistente, usável e útil de ponta a ponta?
+
+    Ferramentas:
+        sketh, lançado em 2010 e foi a primeira ferramenta de design digital avançada criada especificamente para designers de UX
+        freehand, lançada em 2011
+        zeplin, lançada em 2015
+        adobe XD, lançado em 2016
+        figma, também lançada em 2016, atualmente detém uma das maiores participações no mercado de design colaborativo e prototipagem.
+            oferece colaboração em tempo real, Dev Mode para engenheiros e recursos de prototipagem no produto, além de muitos plug-ins personalizados para necessidades exclusivas de design. 
+        
+        Outra consideração para a escolha de uma ferramenta de UX será o contexto de design em que você trabalha. Em alguns casos, a organização pode ditar a ferramenta que você usará simplesmente com base no que ela já usa. Ou você pode ter a flexibilidade de decidir sobre a ferramenta com base no tipo de projeto em que está trabalhando ou no nível de colaboração entre os membros da equipe de que precisa.
+
+
+        sketh, freehand e zeplin funcionam bem com equipes muito grandes que podem ter dificuldades para adotar novas ferramenta, são mais comumente combinadas com outras dessas ferramentas,
+            não requerem WiFi, permitindo o trabalho de design off-line, mas não permitem colaboração em tempo real, prototipagem ou atividades colaborativas de design para desenvolvimento.
+
+        figma é excelente para a maioria dos designers e contextos, inclui acesso ao FigJam, um quadro branco para brainstorming, diagramação e criação de estratégias, mas requer conexão WiFi.
+            É uma ferramenta digital, remota e multifuncional, que facilita o compartilhamento, o design, a colaboração e a revisão em nosso espaço de trabalho virtual e em constante mudança
+
+        biblioteca de modelos do figma => https://www.figma.com/pt-br/comunidade
+
+    Responsabilidades de designers de UX iniciantes:
+        pesquisa => entender o público, origens, dados demográficos (idade, localização), motivações, pontos problemáticos, emoções e objetivos de vida
+        wireframes => esboço inicial de um produto ou tela, ajudando a entender como uma página é organizada, onde fica cada peça e como os usuários irão inteagir
+        protótipos => ilustra a progressão de uma tela para outra, mais fiel do resultado finalidade
+        arquitetura da informação => estrutura do site ou como ele é organizado, categorizado e estruturado 
+        design visual =>  se concentra na aparência do produto ou da tecnologia.
+        comunicação eficaz => conectar-se com seus colegas por meio de e-mails, reuniões, apresentações e software de design.
+
+    Diferença entre generalistas, especialistas e designers t-shaped:
+        generalsita => designer de UX com garnde número de responsabilidades
+            pode experimentar funções, comuns em empresas pequenas
+        
+        especialista => se aprofunda em uma função específica de UX
+            tem conhecimento em uma área específica, comuns em empresas grandes
+
+        designer t-shaped => especializado em uma área de UX e tem um amplo conhecimento em outras áreas
+
+    Equipes multifuncionais:
+        engineer => traduzem os designs em uma experiência funcional, como um aplicativo ou um site. Eles ajudam as equipes de UX a descobrir se os designs são viáveis do ponto de vista técnico e a dar vida a essa ideia.
+        UX researcher =>  usam métodos como observações, entrevistas e pesquisas para entender as perspectivas exclusivas dos usuários. Os resultados da pesquisa podem informar suas decisões de design em cada etapa do processo.
+        program manager => garantem uma comunicação clara e oportuna entre a equipe, para que o processo de criação de um produto útil ocorra sem problemas do início ao fim, supervisionam, apoiam e acompanham o projeto como um todo.
+        product lead => responsáveis por garantir o sucesso do produto final e pela comunicação com as partes interessadas. Seu líder de produto definirá as principais metas e entregas do projeto, para que você possa se concentrar na criação de soluções de design inovadoras. 
+
+    Influência do tamanho da empresa e do setor:
+        startups => novas empresas que desejam desenvolver um produto ou serviço exclusivo e colocá-lo no mercado.
+        pequenas empresas => empresas privadas com poucos funcionários.
+        grandes empresas => é provável que você trabalhe em equipes em um projeto específico.
+        agência de design => balcão único para marcas, produtos e serviços visuais, pode ser semelhante, em alguns aspectos, a trabalhar em uma pequena empresa ou startup, exceto pelo fato de ter várias empresas como clientes. 
+        agência de publicidade => são equipes de criativos contratados pelos clientes para criar campanhas de marketing,  trabalham para criar anúncios para marcas usando princípios de UX.
+        freelancer =>  designers de UX autônomos que são contratados por clientes por seus serviços independentes.
+
+   

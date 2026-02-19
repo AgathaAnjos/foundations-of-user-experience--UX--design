@@ -1,0 +1,21 @@
+ Tecnologia assistiva (AT):
+        termo usado para descrever produtos, equipamentos e sistemas que melhorem o aprendizado, o trabalho e a vida diária de pessoas com deficiência
+        engloba smartphones, computadores, tablets, cadeira de rodas eléttrica, próteses, elevadores elétricos, etc
+        engloba também objetos com baixa tecnologia
+        a diferença nos ajuda a pensar de forma criativa e a ver lacunas no produto
+        beneficía a todos
+        o design acessível permite que usuários com diferentes habilidades naveguem, compreendam e desfrutem de uma interface de usuário.
+        designers de UX consideram a tecnologia assistiva ao longo de todo o processo de design, desde a compreensão das experiências dos usuários e a identificação de suas necessidades até o desenvolvimento e teste de soluções
+
+        Tecnologia adaptativa:
+            não é necessário ter uma deficiência para usufruir dos beneficíos
+            baixa internet ou iluminação adaptativa para ambientes muito claros são exemplos de tecnologia adaptativa
+
+            modificação de cores => alto contraste, torna a interrface mais fácil de ver para pessoas com baixa visão
+            controle de voz => alternativa para teclado e/ ou mouse, permite que navegem usando apenas a voz
+                switch => dispositivo de tech adaptativa que substitui a utilização de periféricos
+            leitores de tela => o software funciona em computadores e smarthphones, lê em voz alta qualquer texto na tela e qualquer botão alternativo ou imagens
+            
+            conteúdo sobre acessibilidade: https://m3.material.io/foundations/overview/principles
+
+    

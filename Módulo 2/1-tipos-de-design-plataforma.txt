@@ -1,0 +1,83 @@
+Pensando como um Designer de UX - Módulo 2
+
+    Design universal:
+        processo de criação de um produto para usuários com a maior variedade de 
+            habilidades e na maior variedade de situações.
+        uma aboradagem única para todos
+        perde a eficácia e se torna difícil atingir todas as metas
+        não é inclusiva, pois não atende a necessidades das pessoas
+
+    Design inclusivo:
+        fazer escolhas de design que levem em conta identificadores pessoais, como 
+            habilidade, raça, status econômico, linguagem, idade e genêro
+        inclui pesquisadores e designers de população tradicionalmente excluídas
+        descrito como solução para um, estendido a muitos
+        objetivo é criar experiências acessíveis a usuários com a maior variedade de habilidades
+        ninguém deve ser excluído, sem público alvo (grupo específico de pessoas)
+        criar produtos acessíveis para aqueles socialmente excluídos
+        
+            Design focado na equidade: eleva grupos que foram excluídos históricamente, busca criar produtos que atendem as
+            necessidades de indivíduos que foram excluídos no passado
+            um conjunto diversificado de usuários pode realmente melhorar o produto
+            usar imagens inclusivas
+
+                igualdade => oferecer a mesma quantidade de oportunidades e apoio a todos os segmentos da sociedade, todos recebem a mesma coisa 
+                equidade => oferecer diferentes níveis de oportunidades, apoio para cada pessoa, a fim de alcançar resultados justos, cada um recebe o que precisa
+    Design centrado no usuário:
+        o design centrado no usuário significa tentar resolver problemas que as pessoas enfrentam com frequência
+        coloca o usuário à frente e no centro
+        considerar as histórias, emoções e insights que reuniu sobre o usuário
+        a maior parte da pesquisa inicial de UX que você realiza no início do projeto se concentra em conhecer as características dos seus usuários, seus objetivos e suas dificuldades
+        compreender o usuário permite que você projete experiências úteis e fáceis de usar
+        certifique-se de ter uma visão ampla e clara de todos os seus usuários em potencial — o que geralmente significa planejar especificamente para atender às necessidades daqueles que costumam ser negligenciados
+        é importante ter em mente os usuários com deficiência ao projetar recursos ou novos produtos
+        pessoas com alfabetização digital limitada podem não estar familiarizadas com certos padrões de design, chamadas para ação ou ícones que nós, com mais experiência online, consideramos óbvios
+        importante ter em mente que nem todos os usuários acessarão seu produto ou serviço da mesma maneira, devido ao custo e à disponibilidade de dispositivos e serviços de internet
+        o pronto principal é resolver um problema do usuário criando um design que faça com que cada usuário sinta que a experiência foi projetada exclusivamente para ele, independentemente de quem seja, onde more, quanto ganhe, quais sejam suas habilidades ou seu nível de escolaridade
+            compreender o contexto do seu usuário de forma abrangente é um ponto de partida importante
+        para alcançar o maior número possível de usuários, você deve considerar perguntas como estas como parte da sua abordagem de pesquisa de usuários:
+
+            Meus usuários têm alguma deficiência ou incapacidade a ser considerada – sejam elas temporárias, situacionais ou permanentes?
+            Quão familiarizados meus usuários estão com a tecnologia?
+            Como meus usuários estão acessando o produto ou serviço?
+            Onde e quando meus usuários acessam o produto ou serviço?
+            Considerei todos os meus potenciais usuários?
+
+                objetivo da pesquisa com usuários é obter a seleção mais ampla possível de potenciais participantes. Certifique-se de considerar o nível de renda; dados demográficos como idade, 
+                    genêro e etnia; formação acadêmica; e localização geográfica. 
+
+            entender => específicar => projetar/ design => avaliar
+
+                entenda como o usuário usa o produto/ similares, requer pesquisa
+                especifique as necessidades do usuário final com base na pesquisa, filtrando quel problema do usuário deve ser resolvido
+                projete soluções para o problema final, crie ideias para a aparência do produto, depois começe a criar o produto
+                avalie seu design de acordo com as necessidades do usuáriofinal, testar o produto com pessoas reais
+
+                    iteração (fazer algo novamente) é necessário para atingir o objetivo de resolução
+
+                site interessante sobre pesquisa de UX: https://careerfoundry.com/en/blog/ux-design/the-importance-of-user-research-and-how-to-do-it/
+
+    Plataforma:
+        meio onde os usuários experimentam seu produto, como área de trabalho, web movél, apps, etc
+        ver a mesma coisa e ter a mesma funcionalidade independente da plataforma que estievr usando
+        é importante focar em uma plataforma primeiro, a plataforma selecionada deve ser a que melhor atende ás necessidades do usuário final
+        deve-se ter uma UX consistente em todas as plataformas que aplicar o produto
+        impotanter ter uma identidade de marca consistente (aparência visual e voz da empresa)
+
+            interação do usuário com diferentes plataforma:
+                pessoas usam em média mais dispositivos movéis
+                UX designers consideram as limitações de conectividade dos usuários movéis (processamento, carregamento mais longo)
+                precisam levar em consideração o tamanhod e tela, interação, layout do conteúdo e funcionalidade
+
+                    Responsividade:
+                        web design responsivo permite que um site mude automaticamente, dependendo do tamanho do dispositivos que está sendo utilizado
+                        
+                    Layout do conteúdo: 
+                        layouts se referem à maneira como as informações são organizadas na tela
+                        botões de chamada na frente e no centro, permitindo que o usuário conclua facilmente a tarefa desejada
+                        menus de navegação curtos e simples destacando as principaisfunções do produto, simplificando a experiência do usuário
+                        use gestos que os usuários já fazem como tocar e deslizar, gestos devem ser intuitivos e familiares
+                        design para ambas as direções em que o telefone seja segurado, considerando a visão vertical do retrato e a horizontal da paisagem
+                        reduza a desordem visual, é importante manter a experiência visual simples 
+
+   

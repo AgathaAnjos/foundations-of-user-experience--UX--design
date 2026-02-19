@@ -1,0 +1,57 @@
+Apresentando o Design da Experiência do Usuário - Módulo 1
+
+    Os designers de UX concentram-se na experiência que os usuários têm ao usar produtos como sites, aplicativos e objetos físicos. 
+        Os designers de UX tornam essas interações cotidianas úteis, agradáveis e acessíveis. É por isso que organizações de todos os tipos, 
+            em diversos setores, precisam contratar designers de UX.
+        A UX é como uma pessoa, o usuário, se sente ao interagir com um produto ou vivenciá-lo.
+        Qualidade significa fornecer às pessoas as Ferramentas de que elas precisam para atingir seus objetivos e apoiar a melhoria da qualidade de vida.
+
+    Para uma boa experiência do usuário, o produto deve ser:
+        utilizável/ usabilidade => o design, estrutura e a finalidade são claros para todos
+            Ao avaliar a usabilidade de um produto, você pode fazer perguntas como: Tudo no design é fácil de encontrar? A funcionalidade do design é fácil de entender? Os usuários podem realizar tarefas específicas dentro do design?
+        
+        justo/ equidade => são úteis e comercializáveis para pessoas com habilidades e experiências diversas
+            Ao avaliar a equidade da UX de um produto, você pode fazer perguntas como: As necessidades de um grupo diversificado de usuários são consideradas? O design do produto atende às necessidades de grupos tradicionalmente sub-representados e excluídos?
+
+        agradável/ prazer => criar uma conexão entre o usuário e o produto, levando em consideração os pensamentos e sentimentos do usuário
+            Ao avaliar o quão agradável é a UX de um produto, você pode fazer perguntas como: Há aspectos do design que levam em conta os sentimentos do usuário? O design inspira prazer no usuário? O design mantém o usuário engajado durante toda a experiência do usuário? 
+
+        utilidade => resolução de problemas 
+            Ao avaliar a utilidade da UX de um produto, você pode fazer perguntas como: O design agrega valor à experiência do usuário? O design resolve um problema para o usuário? O design ajuda o usuário a atingir um objetivo específico?
+
+    Ciclo de vida do desenvolvimento de produtos:
+        1° => brainstorming: 
+            A Equipe começa a pensar em uma ideia para um produto. É possível que a sua Equipe já conheça o problema do usuário que deseja resolver ao iniciar o ciclo de vida de desenvolvimento do produto. Caso contrário, elaborar uma lista de problemas do usuário é um ótimo ponto de partida.
+            O estágio de brainstorming também é o momento ideal para verificar os concorrentes de seu produto e identificar se já existem produtos semelhantes disponíveis no mercado.
+            Um designer de UX em uma grande empresa pode não estar muito envolvido na fase de brainstorming. Mas um designer de UX em uma startup ou em uma pequena empresa pode ter um papel importante! 
+
+        2° => definir:
+            O objetivo é descobrir as especificações do produto, respondendo a perguntas como: Para quem é o produto? O que o produto fará? E quais recursos precisam ser incluídos para que o produto seja bem-sucedido?
+            A equipe restringe o foco da sua ideia. Um produto não pode resolver todos os problemas dos usuários.
+
+        3° => design:
+            Nesse estágio, os designers de UX desenvolvem as ideias para o produto, com wireframes e protótipos
+            Os designers de UX se certificam de incluir todas as especificações do produto que foram delineadas no estágio de definição.
+            Verificam se cada parte do design se encaixa de forma intuitiva. 
+            Certificam de que cada tarefa que o usuário precisa concluir seja clara e fácil de entender, como navegar da página inicial para a página de confirmação de checkout em um aplicativo.
+
+        4° => teste:
+            Os designers de UX trabalham com os engenheiros para desenvolver protótipos funcionais que correspondam aos designs originais, incluindo detalhes e recursos que se encaixem na marca da empresa, como opções de fontes e cores. 
+            Escrever o código e finalizar a estrutura geral do produto.
+            Passam por pelo menos três fases de teste: testes internos na empresa, revisões com partes interessadas e testes externos com usuários potenciais.
+                1° => testes internos: 
+                    a equipe testa o produto internamente para procurar falhas técnicas e problemas de usabilidade. Isso geralmente é chamado de teste alfa. 
+
+                2° => testes com partes interessadas:
+                    o produto passa por um teste com as partes interessadas para garantir que o produto esteja alinhado com a visão da empresa, atenda às diretrizes legais de acessibilidade e siga os regulamentos governamentais de privacidade.
+
+                3° => testes externos com usuários em potencial:
+                    momento de descobrir se o produto proporciona uma boa experiência do usuário, ou seja, se é usável, equitativo, agradável e útil. Isso geralmente é chamado de teste beta.
+            
+            A coleta e a implementação do feedback nesse estágio são absolutamente essenciais
+            Não é um processamento totalmente linear, sua equipe pode alternar entre o design e o teste algumas vezes antes de estar pronta para lançar o produto.
+
+        5° => lançamento:
+            Momento de comemorar seu trabalho e começar a promover o produto.
+            Os Gerentes de programa também se reúnem com a Equipe multifuncional para refletir sobre todo o ciclo de vida do desenvolvimento do produto e fazer perguntas como: O que funcionou e o que poderia ser melhorado? As metas foram atingidas? Os cronogramas foram cumpridos? 
+            Para um produto físico, o estágio de lançamento pode ser o fim do ciclo de vida do desenvolvimento do produto. Mas para um produto digital, como um aplicativo ou site, o lançamento do produto para um público mais amplo oferece outra oportunidade de melhorar a experiência do usuário.

@@ -1,0 +1,78 @@
+Glossário módulo 1:
+        Agências de publicidade: Equipes de Criativos contratadas por clientes para criar Campanhas de marketing
+
+        Aprendizagem: Oferece treinamento no local de trabalho para ajudar as pessoas a desenvolver habilidades reais
+
+        Recursos: Tudo, desde o texto e as imagens até as especificações de design, como estilo da fonte, cor,
+
+        tamanho e espaçamento
+
+        Agência de design: Um balcão único para a aparência de marcas, produtos e serviços
+
+        Empatia: a capacidade de entender os sentimentos ou pensamentos de outra pessoa em uma situação
+
+        Freelancers: Designers que trabalham por conta própria e comercializam seus serviços para empresas para
+
+        encontrar clientes
+
+        Generalista: Um designer de UX com um grande número de responsabilidades
+
+        Designers gráficos: Criam recursos visuais que contam uma história ou mensagem
+
+        Arquitetura da informação: O framework de um site ou como ele é organizado, categorizado e
+
+        estruturado
+
+        Design de interação (IxD): Concentram-se em projetar a experiência de um produto e como ele funciona
+
+        Estágio: Um trabalho de curto prazo com responsabilidade limitada 
+
+        Motion designers: Pensam em como o usuário se sente ao se movimentar em um produto
+
+        Produto: Um bem, serviço ou recurso
+
+        Designers de produção: Assegurar que os designs inicial e final correspondam ao projeto final
+
+        materiais e que os recursos estejam prontos para serem entregues à equipe de engenharia
+
+        Protótipo: Um modelo inicial de um produto que demonstra a funcionalidade
+
+        Especialista: Um designer que se aprofunda em um tipo específico de experiência do usuário, como
+
+        design de interação (IxD), design visual ou motion designer
+
+        Startup: Uma nova empresa que deseja desenvolver um produto ou serviço exclusivo e levá-lo ao
+
+        mercado
+
+        Designer T-shaped: Um designer especializado em um tipo de experiência do usuário (por exemplo, interação, visual, movimento) e com amplo conhecimento em outros tipos de design,
+
+        interação, visual, movimento) e tem um amplo conhecimento em outras áreas
+
+        Designers de UX: Concentram-se em como os usuários interagem com um produto
+
+        Experiência do usuário: Como uma pessoa, o usuário, se sente ao interagir ou experimentar um
+
+        produto
+
+        Engenheiros de UX: Traduzem a intenção do design em uma experiência funcional
+
+        Gerentes do programa de UX: Asseguram uma comunicação clara e oportuna para que o processo de
+
+        de construção de um produto útil ocorra sem problemas do início ao fim
+
+        Pesquisa de UX: Compreender os usuários e aprender sobre seus históricos, dados demográficos,
+
+        motivações, pontos de dor, emoções e objetivos de vida
+
+        Pesquisadores de UX: Um tipo de pesquisador que realiza estudos ou entrevistas para saber mais sobre os
+
+        usuários de um produto e como as pessoas usam um produto
+
+        UX writers (escritores de UX): Criam a linguagem que aparece em um produto digital, como sites ou
+
+        apps para dispositivos móveis
+
+        Designers visuais: Concentram-se na aparência do produto ou da tecnologia
+
+        Wireframe: Um esboço de um produto ou de uma tela

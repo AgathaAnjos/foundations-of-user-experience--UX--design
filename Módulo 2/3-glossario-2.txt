@@ -1,0 +1,49 @@
+Glossário módulo 2:
+        Acessível: O design de produtos, dispositivos, serviços ou ambientes para pessoas com deficiência.
+
+        Texto alternativo (alt text): Texto que ajuda a traduzir algo visual, como uma imagem ou gráfico, em uma descrição que pode ser lida por leitores de tela.
+
+        Tecnologia adaptativa: Quaisquer produtos, equipamentos ou sistemas que melhorem o aprendizado, o trabalho e a vida cotidiana de pessoas com deficiência.
+
+        Identidade da marca: A aparência visual e a voz de uma empresa.
+
+        Call-to-action (CTA): Um comando visual que diz ao usuário para agir, como clicar em um botão.
+
+        Modificação de cores: Recursos que aumentam o contraste das cores em uma tela, como o modo de alto contraste ou o modo escuro.
+
+        Alfabetização digital: O nível de habilidade de um usuário em relação ao uso de informações e tecnologias digitais.
+
+        Igualdade: Oferecer a mesma quantidade de oportunidades e suporte.
+
+        Design com foco na equidade: Projetar para grupos que têm sido historicamente sub-representados ou ignorados na construção de produtos
+
+        Framework: Cria a estrutura básica que focaliza e apoia o problema que você está tentando resolver.
+
+        Ideação: O processamento da geração de um amplo conjunto de ideias sobre um determinado tópico, sem nenhuma tentativa de julgá-las ou avaliá-las.
+
+        Design inclusivo: Fazer escolhas de design que levem em conta identificadores pessoais como habilidade, raça, status econômico, idioma, idade e gênero.
+
+        Insight: Uma observação que ajuda a entender o usuário ou suas necessidades a partir de uma nova perspectiva.
+
+        Iterativo: Revisar o design original para criar uma versão nova e aprimorada.
+
+        Iteração: Fazer algo novamente, com base em versões anteriores e fazendo ajustes.
+
+        Plataforma: O meio em que os usuários experimentam o seu produto.
+
+        Web design responsivo: Uma abordagem de design que permite que um site seja alterado automaticamente, dependendo do tamanho do dispositivo.
+
+        Leitor de tela: Software que lê em voz alta qualquer texto na tela, elementos interativos ou texto alternativo.
+
+        Voz em texto: Software que permite que os usuários escrevam textos falando em seus dispositivos.
+
+        Dispositivo interruptor: Um dispositivo de tecnologia adaptativa que substitui a necessidade de usar um teclado de computador ou um mouse.
+
+        Design universal: O processamento de criação de um produto para usuários com a mais ampla gama de habilidades e nas mais diversas situações.
+
+        Usuário: qualquer pessoa que usa um produto.
+
+        Design com foco no usuário: Coloca o usuário na frente e no centro.
+
+        Controle de voz: Permite que os usuários naveguem e interajam com os botões e as telas de seus dispositivos usando apenas a voz.
+            
